@@ -50,7 +50,6 @@ nconf
         // MongoDB connection string
         // https://docs.mongodb.org/manual/reference/connection-string/
         MONGO_URL: '',
-        MONGO_COLLECTION: '',
 
         MYSQL_USER: '',
         MYSQL_PASSWORD: '',
